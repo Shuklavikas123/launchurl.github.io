@@ -1,0 +1,7 @@
+fastapi
+requests
+uvicorn[standard]
+selenium
+python-multipart
+reportlab
+webdriver_manager
